@@ -1,0 +1,33 @@
+1632881932277	geckodriver	INFO	Listening on 127.0.0.1:59133
+1632881935316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilendgnKK"
+1632881936290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilendgnKK\\search.json.mozlz4", (void 0)))
+1632881940473	Marionette	INFO	Listening on port 59144
+1632881940736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1632881947024	Marionette	INFO	Stopped listening on port 59144
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632881991999	geckodriver	INFO	Listening on 127.0.0.1:52809
+1632881995040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofile4El1kF"
+1632881995502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofile4El1kF\\search.json.mozlz4", (void 0)))
+1632882003480	Marionette	INFO	Listening on port 52819
+1632882003981	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.qlik.com"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdn.myqlik.qlik.com/44e1e17/assets/vendor/antd/4.2.5/antd.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Source+Sans+Pro without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdn.myqlik.qlik.com/44e1e17/assets/qlikidp.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Source+Sans+Pro without a browsingContextID set
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.qlik.com"
+1632882213080	Marionette	INFO	Stopped listening on port 52819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632882214901	geckodriver	INFO	Listening on 127.0.0.1:64596
+1632882217950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilek1JIW3"
+1632882218417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\usuario\\AppData\\Local\\Temp\\rust_mozprofilek1JIW3\\search.json.mozlz4", (void 0)))
+1632882222414	Marionette	INFO	Listening on port 64607
+1632882222496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1632882327554	Marionette	INFO	Stopped listening on port 64607
